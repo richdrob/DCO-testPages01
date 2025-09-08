@@ -11,8 +11,8 @@ This is an introduction paragraph. It provides a brief overview of the document'
 
 This is a sub-section within Section 1. It can contain more detailed information.
 
--   Item 1 in an unordered list.
--   Item 2 in an unordered list.
+-   [Next Post](2025-09-09-testPost03.md)
+-   [first post](https://richdrob.github.io/DCO-testPages01/2025/09/07/testPost01.html)
     -   Nested item.
 
 1.  First item in an ordered list.
@@ -28,9 +28,6 @@ Another sub-section with different content.
 
 This section elaborates on the main topic.
 
-```python
-# Example Python code block
-def hello_world():
-    print("Hello, Markdown!")
+
 
 
