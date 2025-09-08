@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-
+---
 # Document Title
 
 This is an introduction paragraph. It provides a brief overview of the document's content.
@@ -32,5 +32,5 @@ This section elaborates on the main topic.
 # Example Python code block
 def hello_world():
     print("Hello, Markdown!")
----
+
 
